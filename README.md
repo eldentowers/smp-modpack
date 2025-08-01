@@ -1,3 +1,5 @@
+This guide assumes you are using a machine compatible with Modrinth, and already have a Minecraft: Java Edition account. Neither Modrinth nor Elden Towers supports cracked accounts.
+
 # Installation
 This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing
 
