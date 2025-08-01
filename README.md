@@ -1,7 +1,7 @@
 # Installation
 This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing
 
-1. Install the latest `eldensmp-java.mrpack` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases)
+1. Install the latest `eldensmp-java.zip` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases) and extract it.
 2. Run the `eldensmp-java.mrpack` file to create a new instance in the Modrinth App. Only run the file once, or you will create multiple duplicate instances.
 3. Ensure you are logged in to the Modrinth App, and launch the new instance.
 4. Basic options are set by default, and the Elden Towers SMP is available on the server list by default. Keep reading to learn more about the features.
