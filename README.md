@@ -3,10 +3,13 @@ This guide assumes you are using a machine compatible with Modrinth, and already
 # Installation
 This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing
 
-1. Install the latest `eldensmp-java.zip` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases) and extract it.
+1. Install the latest `eldensmp-java.mrpack` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases).
 2. Run the `eldensmp-java.mrpack` file to create a new instance in the Modrinth App. Only run the file once, or you will create multiple duplicate instances.
 3. Ensure you are logged in to the Modrinth App, and launch the new instance.
 4. Basic options are set by default, and the Elden Towers SMP is available on the server list by default. Keep reading to learn more about the features.
+
+**If you have previously run the modpack and wish to update without resetting your settings, a zip archive is available with each release containing ONLY the "mods" folder. Simply delete your existing mods folder, replace it with the new one, and launch your game.**
+You may need to update your Minecraft version yourself as well.
 
 # Shaders
 This modpack features [Bloop Shaders](https://modrinth.com/shader/bloop-shaders) by [espen96](https://modrinth.com/user/espen96)
@@ -33,5 +36,7 @@ These keybinds are set by default.
 - **Reload Shaders**: `R`
 - **Select Shaders**: `O`
 - **Enable/disable Shaders**: `K`
+### Zoomify [1.21.10 only] (Zoom In)
+- **Zoom**: `C (Hold)`
 
-Vanilla Java keybinds are mostly unchanged, with only a few unnecessary keybinds disabled.
+Vanilla Java keybinds are mostly unchanged, with only a few unnecessary keybinds disabled, such as creative mode hotbar saves and miscellaneous function key (F#) actions.
