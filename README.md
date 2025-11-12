@@ -1,10 +1,11 @@
 This guide assumes you are using a machine compatible with Modrinth, and already have a Minecraft: Java Edition account.
 
 # Installation
-This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing
+This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing. The [Prism Launcher](https://prismlauncher.org/) also has the ability to import Modrinth pack files, if you wish to use it instead.
 
 1. Install the latest `eldensmp-java.mrpack` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases).
 2. Run the `eldensmp-java.mrpack` file to create a new instance in the Modrinth App. Only run the file once, or you will create multiple duplicate instances.
+  - If you're using **Prism Launcher**, create a new instance and choose **Import**. Then, choose the `eldensmp-java.mrpack` file to create the instance.  
 3. Ensure you are logged in to the Modrinth App, and launch the new instance.
 4. Basic options are set by default, and the Elden Towers SMP is available on the server list by default. Keep reading to learn more about the features.
 
