@@ -5,7 +5,8 @@ This guide assumes you are using a machine compatible with Modrinth (or another 
 2. Locate your modpack instance folder (contains folders like "mods", "resourcepacks", "saves")
 3. **Delete** the "mods" folder
 4. Replace the "mods" folder with the "mods" folder from the extracted zip archive
-5. Launch your game with the new mods, and your settings/map data preserved!
+5. Ensure Minecraft is updated to the correct version (modpack v1.0.3 = Minecraft 1.21.10) 
+6. Launch your game with the new mods, and your settings/map data preserved!
 
 # Installation (New Instance)
 This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing. The [Prism Launcher](https://prismlauncher.org/) also has the ability to import Modrinth pack files, if you wish to use it instead.
@@ -16,8 +17,6 @@ This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrint
 3. Ensure you are logged in to the Modrinth App, and launch the new instance.
 4. Basic options are set by default, and the Elden Towers SMP is available on the server list by default. Keep reading to learn more about the features.
 
-**If you have previously run the modpack and wish to update without resetting your settings, a zip archive is available with each release containing ONLY the "mods" folder. Simply delete your existing mods folder, replace it with the new one, and launch your game.**
-You may need to update your Minecraft version yourself as well.
 
 # Shaders
 This modpack features [Bloop Shaders](https://modrinth.com/shader/bloop-shaders) by [espen96](https://modrinth.com/user/espen96)
