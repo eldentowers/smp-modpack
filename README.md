@@ -1,6 +1,13 @@
-This guide assumes you are using a machine compatible with Modrinth, and already have a Minecraft: Java Edition account.
+This guide assumes you are using a machine compatible with Modrinth (or another tool that can import .mrpack files), and already have a Minecraft: Java Edition account.
 
-# Installation
+# Installation (Existing Instance)
+1. Install the latest `eldensmp-mods.zip` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases) and extract (unzip) it 
+2. Locate your modpack instance folder (contains folders like "mods", "resourcepacks", "saves")
+3. **Delete** the "mods" folder
+4. Replace the "mods" folder with the "mods" folder from the extracted zip archive
+5. Launch your game with the new mods, and your settings/map data preserved!
+
+# Installation (New Instance)
 This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing. The [Prism Launcher](https://prismlauncher.org/) also has the ability to import Modrinth pack files, if you wish to use it instead.
 
 1. Install the latest `eldensmp-java.mrpack` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases).
