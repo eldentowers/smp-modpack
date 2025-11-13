@@ -1,4 +1,4 @@
-This guide assumes you are using a machine compatible with Modrinth (or another tool that can import .mrpack files), and already have a Minecraft: Java Edition account.
+This guide assumes you are using a machine compatible with Modrinth (or another launcher that can import .mrpack files), and already have a Minecraft: Java Edition account.
 
 # Installation (Existing Instance)
 1. Install the latest `eldensmp-mods.zip` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases) and extract (unzip) it 
