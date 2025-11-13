@@ -1,7 +1,7 @@
 This guide assumes you are using a machine compatible with Modrinth (or another launcher that can import .mrpack files), and already have a Minecraft: Java Edition account.
 
 # Installation (Existing Instance)
-1. Install the latest `eldensmp-mods.zip` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases) and extract (unzip) it 
+1. Install the latest `eldensmp-mods.zip` file from the [releases tab (v1.0.3-1.21.10)](https://github.com/eldentowers/smp-modpack/releases) and extract (unzip) it 
 2. Locate your modpack instance folder (contains folders like "mods", "resourcepacks", "saves")
 3. **Delete** the "mods" folder
 4. Replace the "mods" folder with the "mods" folder from the extracted zip archive
@@ -10,7 +10,7 @@ This guide assumes you are using a machine compatible with Modrinth (or another 
 # Installation (New Instance)
 This modpack uses **Modrinth**. Download the Modrinth App [here](https://modrinth.com/app) before continuing. The [Prism Launcher](https://prismlauncher.org/) also has the ability to import Modrinth pack files, if you wish to use it instead.
 
-1. Install the latest `eldensmp-java.mrpack` file from the [releases tab](https://github.com/eldentowers/smp-modpack/releases).
+1. Install the latest `eldensmp-java.mrpack` file from the [releases tab (v1.0.3-1.21.10)](https://github.com/eldentowers/smp-modpack/releases).
 2. Run the `eldensmp-java.mrpack` file to create a new instance in the Modrinth App. Only run the file once, or you will create multiple duplicate instances.
   - If you're using **Prism Launcher**, create a new instance and choose **Import**. Then, choose the `eldensmp-java.mrpack` file to create the instance.  
 3. Ensure you are logged in to the Modrinth App, and launch the new instance.
