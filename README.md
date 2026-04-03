@@ -1,5 +1,8 @@
 This guide assumes you are using a machine compatible with Modrinth (or another launcher that can import .mrpack files), and already have a Minecraft: Java Edition account.
 
+> [!IMPORTANT]
+> The SMP Modpack has been approved for listing on Modrinth! You can easily download/update the modpack [by downloading it from Modrinth](https://modrinth.com/modpack/elden-smp-modpack)
+
 # Installation (Existing Instance)
 1. Install the latest `eldensmp-mods.zip` file from the [releases tab (v1.0.3-1.21.10)](https://github.com/eldentowers/smp-modpack/releases) and extract (unzip) it 
 2. Locate your modpack instance folder (contains folders like "mods", "resourcepacks", "saves")
